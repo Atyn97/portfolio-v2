@@ -51,17 +51,17 @@ const about = () => {
                 About Me
               </h2>
               <p className="font-medium ">
-                Hi, I'm Fatin Nooraina, a fullstack web developer with a passion
-                for creating beautiful, functional, and user-centered digital
-                experiences. With almost 2 years of experience in the field. I
-                am always looking for new and innovative ways to bring my
-                creative ideas to life.
+                Hi, I am Fatin Nooraina, a fullstack web developer with a
+                passion for creating beautiful, functional, and user-centered
+                digital experiences. With almost 2 years of experience in the
+                field. I am always looking for new and innovative ways to bring
+                my creative ideas to life.
               </p>
               <p className=" my-4 font-medium">
-                After graduated as an mechatronic engineer, I’ve decided to take
-                the leap to pursue a career in software engineering. I’ve
+                After graduated as an mechatronic engineer, I have decided to
+                take the leap to pursue a career in software engineering. I have
                 enrolled in a full-time immersive software development programs
-                at Udemy, then I'm up-skilling myself in new technologies
+                at Udemy, then I am up-skilling myself in new technologies
                 through Youtube tutorials.
               </p>
               <p className="font-medium">

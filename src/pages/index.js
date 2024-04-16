@@ -32,11 +32,11 @@ export default function Home() {
                 className="!text-6xl !text-left xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl"
               />
               <p className="my-4 text-base font-medium md:text-sm sm:text-xs">
-                I’m a self-taught fullstack developer with a Bachelor degree in
-                Mechatronics Engineering. I've always found coding intuitive and
-                have pushed myself to learn most effective ways to achieve a
-                result. I'm a fast learner and can quickly integrate into a team
-                so I can provide value to the company and customers.
+                I am a self-taught fullstack developer with a Bachelor degree in
+                Mechatronics Engineering. I have always found coding intuitive
+                and have pushed myself to learn most effective ways to achieve a
+                result. I am a fast learner and can quickly integrate into a
+                team so I can provide value to the company and customers.
               </p>
               <div className="flex items-center self-start mt-2 lg:self-center gap-4">
                 <Link
