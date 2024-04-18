@@ -1,4 +1,4 @@
-# My very first Portfolio
+# My Minimalist Portfolio
 
 ## My process
 
