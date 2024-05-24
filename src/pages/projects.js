@@ -8,7 +8,7 @@ import { GithubIcon } from "@/components/Icons";
 import featured1 from "../../public/images/projects/speedy-eats.png";
 import featured2 from "../../public/images/projects/moonflix-main.png";
 import project1 from "../../public/images/projects/uniq-blog.png";
-import project2 from "../../public/images/projects/simon-game.png";
+import ecommerce from "../../public/images/projects/ecommerce.png";
 import TransitionEffect from "@/components/TransitionEffect";
 
 const FeaturedProject = ({ type, title, summary, img, link, github }) => {
@@ -163,7 +163,7 @@ const projects = () => {
             </div>
             <div className="col-span-6 sm:col-span-12">
               <Project
-                type="Website Project"
+                type="Blog Project"
                 title="Uniq Blog Application"
                 img={project1}
                 link="https://uniq-blog-app.vercel.app/"
@@ -172,11 +172,11 @@ const projects = () => {
             </div>
             <div className="col-span-6 sm:col-span-12">
               <Project
-                type="Game Project"
-                title="Simon Game"
-                img={project2}
-                link="https://atyn97.github.io/Simon-game/"
-                github="https://github.com/Atyn97/Simon-game?tab=readme-ov-file"
+                type="Ecommerce Project"
+                title="F&N Ecommerce UI"
+                img={ecommerce}
+                link="https://ecommerce-frontend-dusky-zeta.vercel.app/"
+                github="https://github.com/Atyn97/ecommerce-frontend"
               />
             </div>
             <div className="col-span-12 sm:col-span-12">
